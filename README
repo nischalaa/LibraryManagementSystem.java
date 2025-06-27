@@ -1,0 +1,26 @@
+# Java OOP Project – Library Management System
+
+## Description
+A simple console-based Java project using OOP principles:
+- Add books to library
+- Issue and return books
+- View book status (Available/Issued)
+
+##  Technologies
+- Java
+- OOP: Inheritance, Encapsulation, Abstraction
+
+## How to Run
+1. Compile:
+   javac Main.java
+2. Run:
+   java Main
+
+## OOP Concepts Used
+- `Book`, `User`, and `Library` are classes (abstraction)
+- Book has fields `private` with getters/setters (encapsulation)
+- Methods like `issueBook`, `returnBook` (polymorphism usage)
+
+## Features
+- Add and manage books
+- Issue or return by book ID
